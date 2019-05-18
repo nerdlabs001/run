@@ -9,5 +9,5 @@ Using someone else's binary has inherent risk.
 For this reason submissions not built by Nerdlabs staff or peers Are not permitted. 
 All commits from outside the lab or its participants will be rejected.
 If you need something compiled please see us at Crypto-City or on our discord.
-Revisions Marked LAB are independent compliles and should not be conciderd offical builds.
+Revisions Marked LAB are independent compliles and should not be conciderd offical builds.However they have been updated out of necesity and may resolve outdated related issues.
 
