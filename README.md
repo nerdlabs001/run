@@ -1,4 +1,4 @@
-This github is hoasting Nerdlabs binaries.
+This github is hosting Nerdlabs binaries.
 This are what we are using on the pool explorers ect it saves us time later.
 Please note this is not an official repo or affiliation for any of these project. 
 Its more efficient for us to build once and shore here for our use and the communities.
