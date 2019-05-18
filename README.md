@@ -7,5 +7,6 @@ This github is for our efficiency and to help those who are having a difficult t
 Building binaries for themselves. Its is NOT representative of absolute current builds.
 Using someone else's binary has inherent risk. 
 For this reason submissions not built by Nerdlabs staff or peers Are not permitted. 
+All commits from outside the lab or its participants will be rejected.
 If you need something compiled please see us at Crypto-City or on our discord.
 
